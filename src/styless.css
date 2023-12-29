@@ -66,11 +66,11 @@ h1{
     box-sizing: border-box;
     animation: rotation 1s linear infinite;
     position: relative;
-    top: 50%;
+    top: 100%;
         /* Centrado verticalmente en la mitad de la pantalla */
-        left: 50%;
+        left: 100%;
         /* Centrado horizontalmente en la mitad de la pantalla */
-        transform: translate(-80%, -80%);
+        transform: translate(-50%, -50%);
 }
 
 .loader::after{
