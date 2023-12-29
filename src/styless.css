@@ -44,7 +44,7 @@ h1{
     flex-wrap: wrap;
     gap: 30px;
     background:
-            linear-gradient(90deg, #fdfbfb33 35%, #ffa153 100%);
+            linear-gradient(90deg, #fdfbfb33 35%, #ffa153fb 100%);
 }
 
 .box-img{
