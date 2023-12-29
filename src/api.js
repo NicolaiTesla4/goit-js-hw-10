@@ -1,4 +1,4 @@
-const url = 'https://api.thecatapi.com/v1123';
+const url = 'https://api.thecatapi.com/v1';
 const api_key =
     `live_Bk4fyL6EwSEs5MEqudELYENPKNvaKLnF0ufMSLgEo3j0cTbEjiPJLgmBojKPRRA2`;
 
