@@ -70,7 +70,7 @@ h1{
         /* Centrado verticalmente en la mitad de la pantalla */
         left: 50%;
         /* Centrado horizontalmente en la mitad de la pantalla */
-        transform: translate(-50%, -50%);
+        transform: translate(-80%, -80%);
 }
 
 .loader::after{
