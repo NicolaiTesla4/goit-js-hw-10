@@ -43,9 +43,8 @@ h1{
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    background: linear-gradient(90deg,
-            rgba(253, 251, 251, 0.2) 33%,
-            #ff3d00 100%);
+    background:
+            linear-gradient(90deg, #fdfbfb33 35%, #ffa153 100%);
 }
 
 .box-img{
